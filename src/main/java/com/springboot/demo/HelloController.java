@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Created by wsl on 2018/9/9.
+ * 测试controller
  */
 @RestController
 @EnableAutoConfiguration
